@@ -28,6 +28,7 @@ Descktop View
 ![](./screenshot-desktop.jpeg)
 
 Mobile View
+
 ![](./screenshot-mobile.jpeg)
 
 ### Links
