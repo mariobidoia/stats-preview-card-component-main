@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/mariobidoia/stats-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/mariobidoia/stats-preview-card-component-main
+- Live Site URL: https://stats-preview-card-frontmentor.netlify.app/
 
 ## My process
 
