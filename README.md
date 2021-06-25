@@ -51,5 +51,5 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Frontend Mentor - [@mariobidoia]
+- Frontend Mentor - [@mariobidoia] (https://www.frontendmentor.io/profile/mariobidoia)
 
